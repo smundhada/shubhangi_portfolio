@@ -25,10 +25,10 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#about-shubhangi">About</a>
-          </li>
           <li class="nav-item">
+            <a class="nav-link" href="index.html">About</a>
+          </li>
+          <li class="nav-item active">
             <a class="nav-link" href="contact.html">Contact</a>
           </li>
           <li class="nav-item">
@@ -39,19 +39,25 @@
     </nav>
   </header>
 
-  <div class="header-shadow" style = "background-image: url('assets/Intro_Background3.png')">
-    <h10>Hey There, <br> I'm Shubhangi Maheshwari, <br> Full Stack Web Developer!</h10>
-  </div>
-  <div class="row">
-      <div class="col-12 col-md-12 col-lg-4">
-        <img class = "shubhangi_pic" src="assets/Shubhangi_Photo.png">
-      </div>
-      <div class=" description_about col-12 col-md-12 col-lg-7" id="about-shubhangi" style = "background-image: url('assets/clipart2003747.png');">
-        <h11>I have more than three years of
-          experience in Information Technology, gained in-depth knowledge of developing products from just an
-          idea to delivery and demonstrating it to clients. At JSW Steel as a software developer, I am in charge of
-          developing innovative solutions across various software platforms that have flourished my technical and
-          managerial skills. I am currently enrolled in a bootcamp to sharpen my web development and analytic skills.</h11>
+  <div class="row justify-content-md-center">
+      <div class="contact-form col-11 col-md-12 col-lg-4 ">
+            <form>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Email address</label>
+                    <input type="email" class="form-control" placeholder="Email Address" id="exampleInputEmail1" aria-describedby="emailHelp">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Password</label>
+                    <input type="password" class="form-control" placeholder="Password" id="exampleInputPassword1">
+                </div>
+                <div class="form-group">
+                        <label for="exampleFormControlTextarea1">Message</label>
+                        <textarea class="form-control" placeholder="Message" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+                <div class="col-sm-12 text-center">
+                        <button type="submit" class="btn btn-primary text-center">Submit</button>
+                </div>
+            </form>
       </div>
     </div>
 
