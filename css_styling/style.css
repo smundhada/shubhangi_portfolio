@@ -31,7 +31,6 @@ html,body{
 }
 
 .header-shadow{
-    background-image: url('/Users/shubhangimundhada/BootCamp/shubhangi_portfolio/assets/Intro_Background3.png');
     width: 100%;
     height: 400px;    
     background-size:cover;
@@ -69,7 +68,6 @@ html,body{
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-image: url('/Users/shubhangimundhada/BootCamp/shubhangi_portfolio/assets/clipart2003747.png');
     background-repeat: no-repeat;
     background-size: 20% 20%;
     background-position-x: 0%;
@@ -120,7 +118,6 @@ html,body{
     }
 
     .header-shadow{
-        background-image: url('/Users/shubhangimundhada/BootCamp/shubhangi_portfolio/assets/Intro_Background3.png');
         width: 100%;
         height: 280px;    
         background-size:cover;
@@ -158,7 +155,6 @@ html,body{
         align-items: center;
         justify-content: center;
         text-align: center;
-        background-image: url('/Users/shubhangimundhada/BootCamp/shubhangi_portfolio/assets/clipart2003747.png');
         background-repeat: no-repeat;
         background-size: 20% 30%;
         background-position-x: 0%;
@@ -214,7 +210,6 @@ html,body{
     }
 
     .header-shadow{
-        background-image: url('/Users/shubhangimundhada/BootCamp/shubhangi_portfolio/assets/Intro_Background3.png');
         width: 100%;
         height: 100px;    
         background-size:cover;
@@ -252,7 +247,6 @@ html,body{
         align-items: center;
         justify-content: center;
         text-align: center;
-        background-image: url('/Users/shubhangimundhada/BootCamp/shubhangi_portfolio/assets/clipart2003747.png');
         background-repeat: no-repeat;
         background-size: 30% 30%;
         background-position-x: 5%;
